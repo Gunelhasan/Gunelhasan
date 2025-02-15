@@ -10,9 +10,7 @@
 •	Tech stack: SQL, GitHub, Microsoft Excel, Power BI  <br/>
 •	Programming languages: Python, R   <br/>
 •	Project management: Notion, Asana, Jura, Visio, Confluence  <br/>
-•	Methodologies: Agile (Scrum), Kanban, Lean Six Sigma <br/>
 •	Business: Key Performance Indicator (KPI), Standard Operating Procedure (SOP)  <br/>
-•	Sectors: government  <br/>
 •	Other: Business Analysis, Communication skills, Interpersonal skills, Data analytics, Root Cause Analysis, Data Modeling, Data Visualization, Forecasting, Planning <br/>
 
 Find out about my projects below!
